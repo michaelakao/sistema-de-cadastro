@@ -9,3 +9,5 @@ node app.js
 ```
 
 :)
+
+Primeiro contato com Git/Github atraves das aulas da Alura.
